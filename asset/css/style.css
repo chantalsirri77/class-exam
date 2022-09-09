@@ -1,0 +1,10 @@
+/*# sourceMappingURL=style.css.map */
+@import'./reset';
+ul,
+ol {
+    margin: 0px;
+    padding: 0px;
+}
+@mixin bud {
+    
+}
